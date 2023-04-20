@@ -7,12 +7,12 @@ import {getStorage} from 'firebase/storage'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAMl9bsqABdotm33AnhOP-BTsknce-tQdk",
+  apiKey: "your API key",
   authDomain: "instagram-9fc2a.firebaseapp.com",
   projectId: "instagram-9fc2a",
   storageBucket: "instagram-9fc2a.appspot.com",
   messagingSenderId: "785396722858",
-  appId: "1:785396722858:web:4958b72e1a4673110534d3"
+  appId: "your app id"
 };
 
 // Initialize Firebase
